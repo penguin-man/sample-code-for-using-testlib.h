@@ -36,7 +36,7 @@ void validate(){
     //validation の終了時には inf.readEof() が必要
     inf.readEof();
 
-    //他にやりたいことがあったら testlib 内の readme を読んでください
+    //他にやりたいことがあったら testlib.h 内の readme を読んでください
     //test_in フォルダ（中には input ケースが入ってる）をこのファイルと同じ階層に置いた上で
     //g++ test.cpp -o test
     //ls test_in | ./test
