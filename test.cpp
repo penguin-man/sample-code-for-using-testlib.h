@@ -10,11 +10,11 @@ using std::string;
 using std::vector;
 
 void validate(){
-    
-	//下では
-	//N K
-	//S
-	//みたいな入力を読み込んでいます
+	
+    //下では
+    //N K
+    //S
+    //みたいな入力を読み込んでいます
 
     int Nmax = 2e5;
     ll Kmax = 1e18;
